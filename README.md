@@ -3,6 +3,8 @@ Edit from Lead
 edit- manager
 
 edit from junior developer
+
+editing cmpleted -- final
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
